@@ -14,7 +14,7 @@ This repository accompanies the paper:
 
 ## Status
 
-🚧 **Code release in progress.** This repository currently serves as the
+**Code release in progress.** This repository currently serves as the
 permanent landing page referenced in the camera-ready paper. The full
 benchmarking framework (run scripts, prompt suite, power-meter logger,
 analysis notebooks, and figure-generation code) will be pushed here in
